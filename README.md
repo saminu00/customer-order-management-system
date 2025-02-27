@@ -15,7 +15,7 @@ The **Customer Order Management System** is a structured database system designe
 
 ## Tools Used
 - **SQL (MySQL)** – Database management and querying
-- **Power BI – Data visualization and dashboard creation
+- **Power BI** – Data visualization and dashboard creation
 - **Excel** – Additional data manipulation and reporting
 
 ---
@@ -58,7 +58,7 @@ A retail company struggled to track customer orders, understand purchase behavio
 | South   | $2,000.00 |
 | West    | $900.00 |
 
-### ** Conclusion**
+### **Conclusion**
 By leveraging SQL queries and visualization tools, the company can now track sales trends, optimize inventory, and improve customer relationships. The system provides actionable insights for data-driven decision-making.
 
 ---
@@ -78,7 +78,7 @@ By leveraging SQL queries and visualization tools, the company can now track sal
 
 ---
 
-## ✨ Author
+##  Author
  [Saminu Saidu]
 
  Feel free to contribute, raise issues, or suggest improvements!
